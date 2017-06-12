@@ -1,0 +1,11 @@
+{
+    "version": "0.1.0",
+    "isShellCommand": true,
+    "tasks": [
+        {
+            "taskName": "webserver",
+            "command": "node",
+            "args": ["server.js"]
+        }
+    ]
+}

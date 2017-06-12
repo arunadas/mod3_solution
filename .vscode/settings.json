@@ -1,0 +1,17 @@
+{
+    "editor.insertSpaces": true,
+    "files.trimTrailingWhitespace": true,
+    "files.exclude": {
+        ".git": true,
+        "bin": true,
+        "node_modules": false,
+        "MOD3_SOLUTION/.vscode/chrome": true
+    },
+    "view-in-browser.customBrowser": "chrome",
+    "search.exclude": {
+        ".git": true,
+        "node_modules": true,
+        "bin": true,
+        "out": true
+    }
+}
